@@ -80,4 +80,4 @@ Use supervised machine learning to determine which credit card application is co
 </p>
 
 ## Summary: 
-Above results show how each model performed. Ensemble AdaBoost Classifier models seem to performed the best.  The accuracy rate of this model is the highest among all 6 models. Precision and Recall scores are also higher among all models. 
+Above results show how each model performed. Ensemble AdaBoost Classifier model seems to performed the best.  The accuracy rate of this model is the highest among all 6 models. Precision and Recall scores are also higher among all models. 
