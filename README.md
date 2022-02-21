@@ -14,7 +14,7 @@ Use supervised machine learning to determine which credit card application is co
  * Recall (low_risk): 68%
 
 <p align="center">
-<img src = "" /><br>
+<img src = "https://github.com/dhaval-28/Credit_Risk_Analysis/blob/main/Images/Naive_Random_Oversampling.png" /><br>
 </p>
 
 
@@ -28,7 +28,7 @@ Use supervised machine learning to determine which credit card application is co
  * Recall (low_risk): 68%
 
 <p align="center">
-<img src = "" /><br>
+<img src = "https://github.com/dhaval-28/Credit_Risk_Analysis/blob/main/Images/SMOTE_Oversampling.png" /><br>
 </p>
 
 ### Undersampling
@@ -40,7 +40,7 @@ Use supervised machine learning to determine which credit card application is co
  * Recall (low_risk): 57%
 
 <p align="center">
-<img src = "" /><br>
+<img src = "https://github.com/dhaval-28/Credit_Risk_Analysis/blob/main/Images/Undersampling.png" /><br>
 </p>
 
 ### SMOTEENN
@@ -52,7 +52,7 @@ Use supervised machine learning to determine which credit card application is co
  * Recall (low_risk): 55%
 
 <p align="center">
-<img src = "" /><br>
+<img src = "https://github.com/dhaval-28/Credit_Risk_Analysis/blob/main/Images/SMOTEENN.png" /><br>
 </p>
 
 ### Balanced Random Forest Classifier 
@@ -64,7 +64,7 @@ Use supervised machine learning to determine which credit card application is co
  * Recall (low_risk): 91%
 
 <p align="center">
-<img src = "" /><br>
+<img src = "https://github.com/dhaval-28/Credit_Risk_Analysis/blob/main/Images/Balanced_Random_Forest_Classifier.png" /><br>
 </p>
 
 ### Ensemble AdaBoost Classifier
@@ -76,8 +76,8 @@ Use supervised machine learning to determine which credit card application is co
  * Recall (low_risk): 94%
 
 <p align="center">
-<img src = "" /><br>
+<img src = "https://github.com/dhaval-28/Credit_Risk_Analysis/blob/main/Images/Easy_Ensemble_AdaBoost_Classifier.png" /><br>
 </p>
 
 ## Summary: 
-Above number shows how each modeled performed. Ensemble AdaBoost Classifier models seem to performed the best.  The accuracy rate is the highest among all 6 models. Precision and Recall scores are also higher among all models. 
+Above results show how each model performed. Ensemble AdaBoost Classifier models seem to performed the best.  The accuracy rate of this model is the highest among all 6 models. Precision and Recall scores are also higher among all models. 
